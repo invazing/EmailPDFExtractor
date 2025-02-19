@@ -1,0 +1,3 @@
+    password_list = [
+        "1234", "0000", "senha", "pass"
+    ]
